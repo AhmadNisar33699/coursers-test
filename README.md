@@ -1,2 +1,0 @@
-# coursers-test
-test repository
